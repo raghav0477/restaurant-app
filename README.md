@@ -18,5 +18,5 @@ Builds the app for production to the build folder.
 ## About 
 This project is an react application for a Food Restaurant. 
 
-##Live Links
+## Live Links
 https://foodrestaurantapp.netlify.app/
